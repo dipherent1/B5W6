@@ -1,0 +1,7 @@
+complaint_id,product,issue,company,date_submitted,narrative
+S1,Credit card,Billing dispute,CrediTrust,2024-03-12,I was charged twice for the same purchase on my credit card and customer service did not reverse the duplicate charge.
+S2,"Buy Now, Pay Later",Refund not processed,CrediTrust,2024-05-21,"My BNPL refund was approved, but the money never arrived. The app keeps saying 'processing' for two weeks."
+S3,Personal loan,Incorrect interest calculation,CrediTrust,2024-04-03,The loan interest seems higher than the agreement. Monthly installment went up without notice.
+S4,Savings account,Account locked,CrediTrust,2024-06-10,I cannot access my savings account after an app update. Support asked me to wait but it has been 5 days.
+S5,Money transfer,Delayed transfer,CrediTrust,2024-02-02,Sent money to a relative and it is still pending. There was no verification prompt and no way to cancel.
+S6,"Buy Now, Pay Later",Merchant dispute,CrediTrust,2024-07-01,The merchant delivered a damaged item. BNPL schedule continues to charge me and there is no easy dispute process.
